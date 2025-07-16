@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "first": "Una",
+            "last": "Vajagic"
+        },
+        "position": "OH",
+        "year": "Sophomore",
+        "redshirt": true,
+        "height":{
+            "feet": 6,
+            "inches": 0
+        },
+        "home": "Novi Sad, Serbia",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": {
+            "first": "Addy",
+            "last": "Horner"
+        },
+        "position": "",
+        "year": "",
+        "redshirt": false,
+        "height": {
+            "feet": 0,
+            "inches": 0
+        },
+        "home": "",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": {
+            "first": "",
+            "last": ""
+        },
+        "position": "",
+        "year": "",
+        "redshirt": false,
+        "height": {
+            "feet": 0,
+            "inches": 0
+        },
+        "home": "",
+        "image": ""
+    }
+]
