@@ -1,14 +1,23 @@
 [
   {
     "id": 1,
-    "date": "2025-05-28",
-    "title": "Volleyball Releases 2025 Big Ten Schedule",
-    "summary": "Wisconsin Volleyball announces its 2025 Big Ten schedule, featuring matchups against several top-ranked teams, including two in the Top 5. The season kicks off at home against Rutgers and includes key road games against Iowa, Penn State, and several West Coast opponents. The Badgers will play multiple home and away series throughout October and November, finishing the regular season against Northwestern and Minnesota."
+    "date": "2025-07-29",
+    "title": "Badgers Attend Big Ten Volleyball Media Days",
+    "author": "Ashley Steltenpohl",
+    "summary": "Head coach Kelly Sheffield, Carter Booth, and Mimi Colyer represented Wisconsin Volleyball at Big Ten Media Days in Chicago. They participated in interviews with BTN, Out of System, SIRIUSXM, AVCA, and TOGETHXR."
   },
   {
     "id": 2,
-    "date": "",
-    "title": "NEWS",
-    "summary": "newsnewsnewsnewsnewsnewsnewsnewsnewsnewsnewsnewsnewsnewsnewsnewsnewsnewsnewsnews"
+    "date": "2025-05-28",
+    "title": "Volleyball Releases 2025 Big Ten Schedule",
+    "author": "Ashley Steltenpohl",
+    "summary": "Wisconsin Volleyball announces its 2025 Big Ten schedule, featuring matchups against several top-ranked teams, including two in the Top 5. The season kicks off at home against Rutgers and includes key road games against Iowa, Penn State, and several West Coast opponents. The Badgers will play multiple home and away series throughout October and November, finishing the regular season against Northwestern and Minnesota."
+  },
+  {
+    "id": 3,
+    "date": "2025-01-06",
+    "title": "Badger Volleyball Signs Three",
+    "author": "Ashley Steltenpohl",
+    "summary": "Wisconsin adds Grace Egan, Grace Lopez, and Aniya Warren to the 2025 roster. Egan and Lopez transfer from Ohio State and Miami, respectively, while Warren joins as the nation’s top-ranked libero freshman. All three bring experience, skill, and strong competitive records to the Badgers’ lineup."
   }
 ]

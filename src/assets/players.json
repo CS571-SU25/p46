@@ -13,7 +13,7 @@
             "inches": 0
         },
         "home": "Novi Sad, Serbia",
-        "image": ""
+        "image": "/images/vajagic.jpg"
     },
     {
         "id": 2,
@@ -21,30 +21,164 @@
             "first": "Addy",
             "last": "Horner"
         },
-        "position": "",
-        "year": "",
+        "position": "S/RS",
+        "year": "Freshman",
         "redshirt": false,
         "height": {
-            "feet": 0,
-            "inches": 0
+            "feet": 6,
+            "inches": 3
         },
-        "home": "",
+        "home": "Wheaton, Ill.",
         "image": ""
     },
     {
-        "id": 0,
-        "name": {
-            "first": "",
-            "last": ""
-        },
-        "position": "",
-        "year": "",
+        "id": 6,
+        "name": { "first": "Trinity", "last": "Shadd-Ceres" },
+        "position": "OH",
+        "year": "Sophomore",
         "redshirt": false,
-        "height": {
-            "feet": 0,
-            "inches": 0
-        },
-        "home": "",
+        "height": { "feet": 5, "inches": 11 },
+        "home": "Ontario, Canada",
+        "image": ""
+    },
+    {
+        "id": 7,
+        "name": { "first": "Kristen", "last": "Simon" },
+        "position": "L/DS",
+        "year": "Freshman",
+        "redshirt": false,
+        "height": { "feet": 5, "inches": 8 },
+        "home": "Louisville, Kentucky",
+        "image": ""
+    },
+    {
+        "id": 8,
+        "name": { "first": "Morgan", "last": "Van Wie" },
+        "position": "S",
+        "year": "Sophomore",
+        "redshirt": false,
+        "height": { "feet": 5, "inches": 11 },
+        "home": "Waunakee, Wisconsin",
+        "image": ""
+    },
+    {
+        "id": 10,
+        "name": { "first": "Madison", "last": "Quest" },
+        "position": "OH",
+        "year": "Freshman",
+        "redshirt": false,
+        "height": { "feet": 6, "inches": 3 },
+        "home": "Pewaukee, Wisconsin",
+        "image": ""
+    },
+    {
+        "id": 12,
+        "name": { "first": "Natalie", "last": "Wardlow" },
+        "position": "MB",
+        "year": "Freshman",
+        "redshirt": false,
+        "height": { "feet": 6, "inches": 4 },
+        "home": "Lincoln, Nebraska",
+        "image": ""
+    },
+    {
+        "id": 13,
+        "name": { "first": "Jada", "last": "Cerniglia" },
+        "position": "L/DS",
+        "year": "Graduate",
+        "redshirt": false,
+        "height": { "feet": 5, "inches": 3 },
+        "home": "Cross Plains, Wisconsin",
+        "image": ""
+    },
+    {
+        "id": 15,
+        "name": { "first": "Mimi", "last": "Colyer" },
+        "position": "OH",
+        "year": "Senior",
+        "redshirt": false,
+        "height": { "feet": 6, "inches": 3 },
+        "home": "Lincoln, California",
+        "image": ""
+    },
+    {
+        "id": 16,
+        "name": { "first": "Aniya", "last": "Warren" },
+        "position": "L/DS",
+        "year": "Freshman",
+        "redshirt": false,
+        "height": { "feet": 5, "inches": 8 },
+        "home": "Lockport, Illinois",
+        "image": ""
+    },
+    {
+        "id": 17,
+        "name": { "first": "Alicia", "last": "Andrew" },
+        "position": "MB",
+        "year": "Senior",
+        "redshirt": true,
+        "height": { "feet": 6, "inches": 3 },
+        "home": "Ridgefield, Washington",
+        "image": ""
+    },
+    {
+        "id": 18,
+        "name": { "first": "Maile", "last": "Chan" },
+        "position": "L/DS",
+        "year": "Sophomore",
+        "redshirt": false,
+        "height": { "feet": 5, "inches": 3 },
+        "home": "Portland, Oregon",
+        "image": ""
+    },
+    {
+        "id": 19,
+        "name": { "first": "Tosia", "last": "Serafinowska" },
+        "position": "MB",
+        "year": "Sophomore",
+        "redshirt": false,
+        "height": { "feet": 6, "inches": 4 },
+        "home": "Kiekrz, Poland",
+        "image": ""
+    },
+    {
+        "id": 23,
+        "name": { "first": "Grace", "last": "Lopez" },
+        "position": "RS",
+        "year": "Junior",
+        "redshirt": false,
+        "height": { "feet": 6, "inches": 1 },
+        "home": "Aguada, Puerto Rico",
+        "image": ""
+    },
+    {
+        "id": 24,
+        "name": { "first": "Charlie", "last": "Fuerbringer" },
+        "position": "S",
+        "year": "Sophomore",
+        "redshirt": false,
+        "height": { "feet": 5, "inches": 11 },
+        "home": "Hermosa Beach, California",
+        "image": ""
+    },
+    {
+        "id": 32,
+        "name": { "first": "Grace", "last": "Egan" },
+        "position": "OH",
+        "year": "Sophomore",
+        "redshirt": true,
+        "height": { "feet": 6, "inches": 1 },
+        "home": "Sterling, Illinois",
+        "image": ""
+    },
+    {
+        "id": 52,
+        "name": { "first": "Carter", "last": "Booth" },
+        "position": "MB",
+        "year": "Senior",
+        "redshirt": false,
+        "height": { "feet": 6, "inches": 7 },
+        "home": "Denver, Colorado",
         "image": ""
     }
 ]

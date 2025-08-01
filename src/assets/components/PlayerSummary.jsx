@@ -1,5 +1,9 @@
+import Card from "react-bootstrap/Card";
+
 export default function PlayerSummary({ player }) {
-  const { name, position, year, redshirt, height, home, image } = player;
+  const { id, name, position, year, redshirt, height, home, image } = player;
+
+  console.log("Image src:", image);
 
   const formattedHeight =
     height.feet || height.inches
@@ -9,18 +13,28 @@ export default function PlayerSummary({ player }) {
   const formattedYear = redshirt && year ? `${year} (Redshirt)` : year;
 
   return (
-    <div className="player-card">
-      <img
-        src={image || "/images/default.jpg"}
+    <Card
+      className="player-card mb-4"
+      style={{ borderRadius: "15px", backgroundColor: "#ffe6f0", width: "250px" }}
+    >
+      <Card.Img
+        variant="top"
+        src={image || `/images/${name.last.toLowerCase()}.jpg`}
         alt={`${name.first} ${name.last}`}
+        style={{ 
+          height: "250px",
+          objectFit: "cover",
+          borderTopLeftRadius: "15px",
+          borderTopRightRadius: "15px"
+        }}
       />
-      <h3>{name.first} {name.last}</h3>
-
-      <p>
-        {[position, formattedYear, formattedHeight].filter(Boolean).join(" · ")}
-      </p>
-
-      <p>{home}</p>
-    </div>
+      <Card.Body>
+        <Card.Title style={{ fontWeight: "bold", fontStyle: "italic" }}>#{id}  {name.first} {name.last}</Card.Title>
+        <Card.Text>
+          {[position, formattedYear, formattedHeight].filter(Boolean).join(" · ")}
+        </Card.Text>
+        <Card.Text>{home}</Card.Text>
+      </Card.Body>
+    </Card>
   );
 }
