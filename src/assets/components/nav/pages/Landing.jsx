@@ -11,6 +11,7 @@ export default function Landing() {
 
   return (
     <div>
+      <br></br>
       <h1
         style={{
           backgroundColor: "#ffe6f0",
@@ -25,6 +26,8 @@ export default function Landing() {
       {news.length === 0 && <p>No news available yet.</p>}
       {news.map(({ id, date, title, author, summary }) => (
         <article key={id}>
+          <br></br>
+          <br></br>
           <h2>{title}</h2>
           <h3>By: {author}</h3>
           <small>{new Date(date).toLocaleDateString()}</small>
